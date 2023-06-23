@@ -1,0 +1,53 @@
+.yellow{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.red{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+
+.grey{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(214, 199, 199);
+}
+
+.black{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.layout-yl{
+    float: left;
+    width: 500px;
+    height: 100px;
+}
+
+.layout-r{
+    float: left;
+    width: 150px;
+    height: 300px;
+}
+
+.layout-gr{
+    float: left;
+    width: 350px;
+    height: 300px;
+}
+
+.layout-bl{
+    float: left;
+    width: 500px;
+    height: 30px;
+}
+
+.layout{
+    width: 500px;
+    height: 430px;
+}
+
